@@ -7,7 +7,7 @@ import EmailLink from "@/components/atoms/EmailLink";
 import Title from "@/components/atoms/Title";
 import { baseInfo } from "@/const/base";
 
-import Map from "../../../public/image/map.png";
+import Map from "map.png";
 
 const mono = Noto_Sans_Mono({ subsets: ["latin"] });
 const Access = () => {
